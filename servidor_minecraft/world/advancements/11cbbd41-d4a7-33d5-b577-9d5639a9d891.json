@@ -192,9 +192,13 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2024-12-01 00:57:20 +0000",
       "pumpkin_pie": "2024-12-01 00:51:28 +0000",
       "bread": "2024-12-01 00:45:44 +0000",
-      "rotten_flesh": "2024-12-01 00:25:52 +0000"
+      "golden_apple": "2024-12-01 00:59:28 +0000",
+      "rotten_flesh": "2024-12-01 00:25:52 +0000",
+      "beetroot": "2024-12-01 00:57:53 +0000",
+      "carrot": "2024-12-01 00:54:59 +0000"
     },
     "done": false
   },
@@ -216,15 +220,33 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-01 00:57:43 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2024-12-01 00:44:09 +0000"
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-01 00:52:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-01 00:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-01 00:53:55 +0000"
     },
     "done": true
   },
@@ -237,6 +259,18 @@
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2024-12-01 00:32:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 01:01:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 01:01:22 +0000"
     },
     "done": true
   },

@@ -4114,3 +4114,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Dec2024 00:47:54.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert hit the ground too hard whilst trying to escape The Bruin
 [01Dec2024 00:47:54.274] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
 [01Dec2024 00:48:02.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has completed the challenge [I'm not sugar coating it]
+[01Dec2024 00:52:53.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Ice Bucket Challenge]
+[01Dec2024 00:53:55.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Cover Me with Diamonds]
+[01Dec2024 00:56:50.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Husk
+[01Dec2024 00:56:50.229] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[01Dec2024 00:57:43.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Isn't It Iron Pick]
+[01Dec2024 00:58:12.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Skeleton
+[01Dec2024 00:58:12.725] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[01Dec2024 01:00:49.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Husk
+[01Dec2024 01:00:49.932] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[01Dec2024 01:01:22.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Knowledge of Death]
+[01Dec2024 01:01:22.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has reached the goal [Chain Death]
+[01Dec2024 01:01:22.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Husk
+[01Dec2024 01:01:22.808] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[01Dec2024 01:02:11.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert fell from a high place
+[01Dec2024 01:02:11.302] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
