@@ -4129,3 +4129,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Dec2024 01:01:22.808] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
 [01Dec2024 01:02:11.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert fell from a high place
 [01Dec2024 01:02:11.302] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[01Dec2024 01:02:44.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Skeleton
+[01Dec2024 01:02:44.573] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[01Dec2024 01:03:11.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Husk
+[01Dec2024 01:03:11.295] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[01Dec2024 01:06:28.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Skeleton
+[01Dec2024 01:06:28.635] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[01Dec2024 01:07:18.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Take Aim]
+[01Dec2024 01:07:57.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Skeleton
+[01Dec2024 01:07:57.572] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[01Dec2024 01:08:43.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was doomed to fall by Skeleton
+[01Dec2024 01:08:43.370] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[01Dec2024 01:10:44.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Skeleton
+[01Dec2024 01:10:44.027] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[01Dec2024 01:11:25.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was doomed to fall by Skeleton
+[01Dec2024 01:11:25.071] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
