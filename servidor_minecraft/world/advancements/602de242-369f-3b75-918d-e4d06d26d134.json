@@ -175,6 +175,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-01 02:07:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-01 01:31:14 +0000"
@@ -243,6 +249,18 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-01 01:24:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 02:04:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 02:04:39 +0000"
     },
     "done": true
   },

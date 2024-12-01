@@ -4221,3 +4221,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Dec2024 02:01:43.373] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
 [01Dec2024 02:01:57.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Chest Slayer]
 [01Dec2024 02:01:59.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Amateur Archaeologist]
+[01Dec2024 02:04:39.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Azulito1910 has made the advancement [Knowledge of Death]
+[01Dec2024 02:04:39.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Azulito1910 has made the advancement [Ashes 'n Bones]
+[01Dec2024 02:06:34.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Azulito1910 moved wrongly!
+[01Dec2024 02:07:17.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Azulito1910 has made the advancement [A Strange Grave Dust]
+[01Dec2024 02:08:04.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Quite the Renovation]

@@ -341,5 +341,17 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-01 02:08:04 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-01 02:08:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
