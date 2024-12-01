@@ -4093,3 +4093,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Dec2024 00:40:24.728] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
 [01Dec2024 00:41:14.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Mutant Creeper
 [01Dec2024 00:41:14.825] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[01Dec2024 00:41:37.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Direwolf
+[01Dec2024 00:41:37.579] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[01Dec2024 00:44:15.933] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[01Dec2024 00:44:15.934] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[01Dec2024 00:44:15.934] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[01Dec2024 00:44:16.065] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[01Dec2024 00:44:16.066] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[01Dec2024 00:44:16.066] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[01Dec2024 00:44:16.066] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[01Dec2024 00:44:16.095] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[01Dec2024 00:44:16.096] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[01Dec2024 00:44:16.096] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[01Dec2024 00:44:16.096] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[01Dec2024 00:44:17.924] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[01Dec2024 00:46:47.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was squashed by a falling anvil
+[01Dec2024 00:46:47.674] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[01Dec2024 00:47:26.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by The Hunter
+[01Dec2024 00:47:26.040] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[01Dec2024 00:47:54.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert hit the ground too hard whilst trying to escape The Bruin
+[01Dec2024 00:47:54.274] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[01Dec2024 00:48:02.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has completed the challenge [I'm not sugar coating it]
