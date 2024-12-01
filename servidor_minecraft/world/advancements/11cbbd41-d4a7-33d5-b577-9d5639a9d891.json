@@ -128,6 +128,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2024-12-01 00:21:08 +0000",
+      "minecraft:sunflower_plains": "2024-12-01 01:21:09 +0000",
       "minecraft:river": "2024-12-01 00:37:00 +0000",
       "minecraft:dripstone_caves": "2024-12-01 00:22:46 +0000",
       "minecraft:forest": "2024-12-01 00:18:20 +0000",
@@ -221,6 +222,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-01 01:31:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-01 00:57:43 +0000"
@@ -251,9 +258,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-01 01:19:07 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2024-12-01 00:32:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-01 01:29:20 +0000"
     },
     "done": true
   },
@@ -272,6 +291,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-01 01:01:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 01:29:20 +0000"
     },
     "done": true
   },
