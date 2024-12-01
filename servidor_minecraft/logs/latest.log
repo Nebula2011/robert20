@@ -4226,3 +4226,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Dec2024 02:06:34.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Azulito1910 moved wrongly!
 [01Dec2024 02:07:17.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Azulito1910 has made the advancement [A Strange Grave Dust]
 [01Dec2024 02:08:04.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Quite the Renovation]
+[01Dec2024 02:13:46.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [The Beginning of An Adventure]
+[01Dec2024 02:13:46.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Need A Map?]
+[01Dec2024 02:14:56.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robert lost connection: Disconnected
+[01Dec2024 02:14:56.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert left the game
+[01Dec2024 02:14:56.304] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wallace2020 lost connection: Disconnected
+[01Dec2024 02:14:56.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 left the game
+[01Dec2024 02:15:01.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Azulito1910 lost connection: Disconnected
+[01Dec2024 02:15:01.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Azulito1910 left the game
