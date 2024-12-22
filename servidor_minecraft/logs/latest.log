@@ -612,3 +612,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Dec2024 16:49:05.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Christmas]
 [22Dec2024 16:49:05.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Mysterious Gift]
 [22Dec2024 16:49:09.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3802ms or 76 ticks behind
+[22Dec2024 17:06:38.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [This Must be a Sign!]
+[22Dec2024 17:08:16.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Who You Gonna Call?]
+[22Dec2024 17:08:31.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Ghost
+[22Dec2024 17:08:31.447] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[22Dec2024 17:08:32.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [The Most Useful Key]
+[22Dec2024 17:09:18.609] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[22Dec2024 17:09:24.149] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[22Dec2024 17:25:43.728] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[22Dec2024 17:25:43.730] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[22Dec2024 17:25:43.730] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[22Dec2024 17:25:43.731] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[22Dec2024 17:25:48.099] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[22Dec2024 17:25:48.099] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[22Dec2024 17:25:48.100] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[22Dec2024 17:25:48.100] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[22Dec2024 17:25:52.635] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[22Dec2024 17:25:52.635] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[22Dec2024 17:25:52.636] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[22Dec2024 17:25:52.636] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[22Dec2024 17:27:10.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robert lost connection: Disconnected
+[22Dec2024 17:27:10.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert left the game
