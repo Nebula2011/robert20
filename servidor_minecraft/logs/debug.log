@@ -20029,3 +20029,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Dec2024 17:27:08.747] [Netty Epoll Server IO #4/DEBUG] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: resolves to entity RestlessSpiritEntity['Restless Spirit'/10885, l='ServerLevel[world]', x=-697.50, y=20.00, z=64.50] modifiers null
 [22Dec2024 17:27:10.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robert lost connection: Disconnected
 [22Dec2024 17:27:10.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert left the game
+[22Dec2024 17:28:28.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 17:28:28.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 17:33:28.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 17:33:28.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
