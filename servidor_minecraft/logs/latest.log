@@ -648,3 +648,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 21:23:39.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Cave Spider
 [29Dec2024 21:23:39.843] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
 [29Dec2024 21:23:40.868] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/8063, l='ServerLevel[world]', x=-623.71, y=14.98, z=216.69, removed=DISCARDED]
+[29Dec2024 21:25:03.820] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=-827, y=80, z=373}
+[29Dec2024 21:25:07.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3385ms or 67 ticks behind
+[29Dec2024 21:25:07.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robert moved too quickly! 0.2699568675291175,-1.1216000461578375,-10.044923051743467
+[29Dec2024 21:27:42.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Mimic
+[29Dec2024 21:27:42.770] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[29Dec2024 21:27:43.917] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/8063, l='ServerLevel[world]', x=-623.71, y=14.98, z=216.69, removed=DISCARDED]
+[29Dec2024 21:29:23.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robert lost connection: Disconnected
+[29Dec2024 21:29:23.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert left the game
