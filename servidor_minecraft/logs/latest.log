@@ -600,3 +600,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 19:15:22.241] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
 [29Dec2024 19:15:22.242] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
 [29Dec2024 19:15:22.242] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/robert20/servidor_minecraft/./config/infernalmobs.cfg
+[29Dec2024 20:08:11.451] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[29Dec2024 20:08:11.618] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: robert[/100.117.211.19:56905] logged in with entity id 1448 at (-624.062708592764, 66.0, 109.13152378017449)
+[29Dec2024 20:08:11.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert joined the game
+[29Dec2024 20:08:17.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5545ms or 110 ticks behind
+[29Dec2024 20:09:08.247] [Worker-Main-40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[29Dec2024 20:09:08.249] [Worker-Main-40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[29Dec2024 20:09:08.249] [Worker-Main-40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[29Dec2024 20:09:08.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Cobweb Entanglement]
+[29Dec2024 20:10:49.689] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[29Dec2024 20:10:49.690] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[29Dec2024 20:10:49.690] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[29Dec2024 20:10:49.691] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[29Dec2024 20:12:41.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robert moved wrongly!
+[29Dec2024 20:12:41.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robert moved wrongly!
+[29Dec2024 20:12:52.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Cave Spider
+[29Dec2024 20:12:52.918] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[29Dec2024 20:13:47.079] [Worker-Main-42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[29Dec2024 20:13:47.080] [Worker-Main-42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[29Dec2024 20:13:47.081] [Worker-Main-42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[29Dec2024 20:13:47.081] [Worker-Main-42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
