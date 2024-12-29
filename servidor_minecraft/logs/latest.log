@@ -624,3 +624,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 20:15:09.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert left the game
 [29Dec2024 20:16:37.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: robert[/100.117.211.19:57248] logged in with entity id 2668 at (-682.1641903598694, 49.0, 163.43606186307926)
 [29Dec2024 20:16:37.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert joined the game
+[29Dec2024 20:45:36.303] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2847, l='ServerLevel[world]', x=-825.61, y=80.00, z=108.71] died, message: 'Villager hit the ground too hard'
+[29Dec2024 20:48:25.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Mimic
+[29Dec2024 20:48:26.376] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[29Dec2024 20:49:12.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Chest Slayer]
