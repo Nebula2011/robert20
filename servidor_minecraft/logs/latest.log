@@ -628,3 +628,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 20:48:25.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Mimic
 [29Dec2024 20:48:26.376] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
 [29Dec2024 20:49:12.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Chest Slayer]
+[29Dec2024 20:59:21.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robert lost connection: Disconnected
+[29Dec2024 20:59:21.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert left the game

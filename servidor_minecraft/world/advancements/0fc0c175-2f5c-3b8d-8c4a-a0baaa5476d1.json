@@ -189,6 +189,7 @@
       "pumpkin_pie": "2024-12-01 01:28:46 +0000",
       "bread": "2024-12-01 01:43:48 +0000",
       "glow_berries": "2024-12-22 17:15:26 +0000",
+      "beetroot": "2024-12-29 20:51:05 +0000",
       "rabbit_stew": "2024-12-01 01:34:30 +0000"
     },
     "done": false
@@ -409,6 +410,79 @@
       "in_better_spider_dungeon": "2024-12-29 20:09:08 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 20:58:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 20:58:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 20:58:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 20:58:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 20:58:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-29 20:59:15 +0000",
+      "log_spam_fixer": "2024-12-29 20:58:28 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 20:58:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 20:58:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 20:58:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 20:58:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 20:58:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 20:58:28 +0000"
+    },
+    "done": false
   },
   "artifacts:chest_slayer": {
     "criteria": {
