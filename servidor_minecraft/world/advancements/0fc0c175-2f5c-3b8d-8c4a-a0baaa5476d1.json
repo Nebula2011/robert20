@@ -168,6 +168,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-02-16 23:12:49 +0000"
+    },
+    "done": true
+  },
   "parcool:grant_parcool_guide": {
     "criteria": {
       "tick": "2025-02-16 23:05:18 +0000"
