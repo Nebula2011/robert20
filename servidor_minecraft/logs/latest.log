@@ -789,3 +789,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Feb2025 23:07:10.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Zombie Bruiser
 [16Feb2025 23:07:10.556] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
 [16Feb2025 23:12:49.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has reached the goal [Here They Come]
+[16Feb2025 23:22:26.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by The Moonflower
+[16Feb2025 23:22:26.158] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[16Feb2025 23:25:48.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Sprinter
+[16Feb2025 23:25:48.805] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[16Feb2025 23:28:48.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Snowy Creeper
+[16Feb2025 23:28:48.970] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
