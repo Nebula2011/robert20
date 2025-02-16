@@ -795,3 +795,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Feb2025 23:25:48.805] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
 [16Feb2025 23:28:48.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Snowy Creeper
 [16Feb2025 23:28:48.970] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[16Feb2025 23:33:47.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robert lost connection: Disconnected
+[16Feb2025 23:33:47.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert left the game
+[16Feb2025 23:33:47.294] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0fc0c175-2f5c-3b8d-8c4a-a0baaa5476d1 was unloaded
