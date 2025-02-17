@@ -96,3 +96,6 @@
 [17Feb2025 01:01:25.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angel lost connection: Disconnected
 [17Feb2025 01:01:25.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel left the game
 [17Feb2025 01:01:25.340] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2401a9b-d035-3821-b275-03f8b4339b02 was unloaded
+[17Feb2025 01:03:16.438] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wallace2020 lost connection: Disconnected
+[17Feb2025 01:03:16.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 left the game
+[17Feb2025 01:03:16.439] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11cbbd41-d4a7-33d5-b577-9d5639a9d891 was unloaded
