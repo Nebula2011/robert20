@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-18 14:15:11 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
       "killed_illusioner": "2025-02-18 13:21:11 +0000"
@@ -227,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-18 14:10:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-02-18 13:21:27 +0000"
@@ -239,11 +251,25 @@
     },
     "done": true
   },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "blue": "2025-02-18 14:17:38 +0000"
+    },
+    "done": false
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2025-02-18 14:10:36 +0000",
+      "cooked_beef": "2025-02-18 14:15:43 +0000",
       "bread": "2025-02-18 14:01:56 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-02-18 14:10:55 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
