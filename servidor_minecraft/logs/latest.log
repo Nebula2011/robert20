@@ -716,3 +716,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Feb2025 13:15:31.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11245ms or 224 ticks behind
 [18Feb2025 13:18:40.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert went off with a bang
 [18Feb2025 13:18:40.163] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[18Feb2025 13:21:07.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Take Aim]
+[18Feb2025 13:21:11.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Knowledge of Death]
+[18Feb2025 13:21:11.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Ambush]
+[18Feb2025 13:21:11.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [World of illusion]
+[18Feb2025 13:21:27.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Sweet Dreams]
+[18Feb2025 13:31:14.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-277, y=64, z=95} BlockPos{x=-275, y=62, z=93}
