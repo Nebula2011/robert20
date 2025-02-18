@@ -727,3 +727,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Feb2025 14:10:51.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Acquire Hardware]
 [18Feb2025 14:10:55.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Magic Writing]
 [18Feb2025 14:15:11.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Isn't It Iron Pick]
+[18Feb2025 14:21:56.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [This Must be a Sign!]
+[18Feb2025 14:26:20.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [A Strange Grave Dust]
+[18Feb2025 14:26:42.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Snow Leopard
+[18Feb2025 14:26:42.254] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved

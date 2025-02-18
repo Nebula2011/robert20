@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-02-18 14:21:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-02-18 14:15:11 +0000"
@@ -226,6 +232,12 @@
       "killed_illusioner": "2025-02-18 13:21:11 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-02-18 14:26:20 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
