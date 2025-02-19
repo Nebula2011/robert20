@@ -782,3 +782,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Feb2025 20:11:51.722] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/10623, l='ServerLevel[world]', x=-304.50, y=73.00, z=1472.50]
 [19Feb2025 20:12:55.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Ghost
 [19Feb2025 20:12:55.548] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[19Feb2025 20:13:48.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Who You Gonna Call?]
+[19Feb2025 20:14:53.386] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robert lost connection: Disconnected
+[19Feb2025 20:14:53.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert left the game
+[19Feb2025 20:14:53.389] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0fc0c175-2f5c-3b8d-8c4a-a0baaa5476d1 was unloaded
