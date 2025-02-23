@@ -1435,3 +1435,41 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Feb2025 21:47:49.804] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
 [23Feb2025 21:48:02.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Wither Skeleton
 [23Feb2025 21:48:02.549] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[23Feb2025 21:48:52.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Sucker
+[23Feb2025 21:48:52.272] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 21:50:04.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Zombie
+[23Feb2025 21:50:04.858] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[23Feb2025 21:50:05.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Coconut Crab
+[23Feb2025 21:50:05.812] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 21:50:31.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Husk
+[23Feb2025 21:50:31.202] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[23Feb2025 21:51:03.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Husk
+[23Feb2025 21:51:03.946] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[23Feb2025 21:51:07.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Husk
+[23Feb2025 21:51:07.621] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 21:51:50.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Husk
+[23Feb2025 21:51:50.603] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[23Feb2025 21:51:58.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nebula20 moved wrongly!
+[23Feb2025 21:52:34.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Husk
+[23Feb2025 21:52:34.570] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[23Feb2025 21:53:09.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angel moved wrongly!
+[23Feb2025 21:53:17.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Suit Up]
+[23Feb2025 21:53:21.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Husk
+[23Feb2025 21:53:21.954] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[23Feb2025 21:53:27.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nebula20 moved wrongly!
+[23Feb2025 21:54:29.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Husk
+[23Feb2025 21:54:29.958] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 21:55:05.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Husk
+[23Feb2025 21:55:05.785] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 21:55:25.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 has made the advancement [Cover Me with Diamonds]
+[23Feb2025 21:56:02.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 withered away whilst fighting Wither Skeleton
+[23Feb2025 21:56:02.601] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 21:56:11.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Husk
+[23Feb2025 21:56:11.249] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[23Feb2025 21:56:33.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Wither Skeleton
+[23Feb2025 21:56:33.352] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 21:57:01.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Wither Skeleton
+[23Feb2025 21:57:01.262] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 21:57:11.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nebula20 moved wrongly!
+[23Feb2025 21:58:06.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Wither Skeleton
+[23Feb2025 21:58:06.995] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved

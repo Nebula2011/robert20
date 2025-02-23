@@ -198,6 +198,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-02-23 21:55:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-02-23 21:29:28 +0000"
@@ -206,7 +212,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:hoglin": "2025-02-23 21:55:52 +0000",
       "minecraft:spider": "2025-02-23 21:28:23 +0000",
+      "minecraft:wither_skeleton": "2025-02-23 21:56:00 +0000",
+      "minecraft:husk": "2025-02-23 21:55:47 +0000",
       "minecraft:enderman": "2025-02-23 21:33:34 +0000"
     },
     "done": false
