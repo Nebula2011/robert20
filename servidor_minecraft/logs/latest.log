@@ -800,3 +800,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Feb2025 01:48:13.381] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
 [23Feb2025 01:49:55.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was killed by Area Effect Cloud using magic
 [23Feb2025 01:49:56.993] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 01:54:02.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 fell from a high place
+[23Feb2025 01:54:04.475] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 01:54:59.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Direwolf
+[23Feb2025 01:55:01.991] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 01:55:02.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
+[23Feb2025 01:55:54.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 has completed the challenge [Yo mama so fat, she digests her fetuses]
+[23Feb2025 02:01:37.715] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[23Feb2025 02:01:37.719] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[23Feb2025 02:01:37.720] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[23Feb2025 02:01:53.349] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[23Feb2025 02:01:53.350] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
