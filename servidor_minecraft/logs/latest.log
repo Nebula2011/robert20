@@ -811,3 +811,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Feb2025 02:01:37.720] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
 [23Feb2025 02:01:53.349] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
 [23Feb2025 02:01:53.350] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[23Feb2025 02:02:48.588] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[23Feb2025 02:02:48.589] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[23Feb2025 02:02:48.589] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[23Feb2025 02:02:48.623] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[23Feb2025 02:02:58.428] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[23Feb2025 02:02:58.430] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[23Feb2025 02:02:58.584] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[23Feb2025 02:03:39.543] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Feb2025 02:03:39.543] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Feb2025 02:04:27.922] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nebula20 lost connection: Disconnected
+[23Feb2025 02:04:27.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 left the game
+[23Feb2025 02:04:27.925] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 63d71b42-8a40-3655-a0ba-82e700570c8d was unloaded
+[23Feb2025 02:04:43.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angel lost connection: Disconnected
+[23Feb2025 02:04:43.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel left the game
+[23Feb2025 02:04:43.758] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2401a9b-d035-3821-b275-03f8b4339b02 was unloaded
