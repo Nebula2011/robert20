@@ -1616,3 +1616,103 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Feb2025 22:38:46.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Zombie
 [23Feb2025 22:38:46.945] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
 [23Feb2025 22:38:55.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[23Feb2025 22:39:01.037] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[23Feb2025 22:39:11.311] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-545}
+[23Feb2025 22:39:11.312] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-541}
+[23Feb2025 22:39:14.719] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[23Feb2025 22:39:14.719] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[23Feb2025 22:39:14.743] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[23Feb2025 22:39:14.744] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[23Feb2025 22:39:17.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7007ms or 140 ticks behind
+[23Feb2025 22:39:22.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 has made the advancement [Acquire Hardware]
+[23Feb2025 22:39:37.037] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-330, y=27, z=-542}
+[23Feb2025 22:39:37.038] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=27, z=-542}
+[23Feb2025 22:39:37.039] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=32, z=-542}
+[23Feb2025 22:39:37.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5203ms or 104 ticks behind
+[23Feb2025 22:39:53.762] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=27, z=-610}
+[23Feb2025 22:39:55.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Zombie
+[23Feb2025 22:39:55.748] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 22:39:57.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4549ms or 90 ticks behind
+[23Feb2025 22:40:25.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has reached the goal [Bone Crusher]
+[23Feb2025 22:40:29.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Zombie
+[23Feb2025 22:40:29.278] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 22:40:51.566] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
+[23Feb2025 22:40:51.567] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
+[23Feb2025 22:40:54.669] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-583}
+[23Feb2025 22:40:54.670] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-586}
+[23Feb2025 22:40:54.671] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-582}
+[23Feb2025 22:40:54.671] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-587}
+[23Feb2025 22:41:16.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 has reached the goal [Bone Crusher]
+[23Feb2025 22:41:40.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel withered away whilst fighting Botfly
+[23Feb2025 22:41:40.059] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[23Feb2025 22:42:12.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Zombie
+[23Feb2025 22:42:13.012] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 22:42:34.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wallace2020 lost connection: Disconnected
+[23Feb2025 22:42:34.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 left the game
+[23Feb2025 22:42:34.586] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11cbbd41-d4a7-33d5-b577-9d5639a9d891 was unloaded
+[23Feb2025 22:44:21.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angel lost connection: Timed out
+[23Feb2025 22:44:21.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel left the game
+[23Feb2025 22:44:21.845] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2401a9b-d035-3821-b275-03f8b4339b02 was unloaded
+[23Feb2025 22:44:21.953] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Feb2025 22:44:21.991] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wallace2020[/100.113.22.47:53340] logged in with entity id 27891 at (182.44482366455682, 45.0, -398.5924034543268)
+[23Feb2025 22:44:22.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 joined the game
+[23Feb2025 22:44:23.858] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11cbbd41-d4a7-33d5-b577-9d5639a9d891 was loaded
+[23Feb2025 22:44:48.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Skeleton
+[23Feb2025 22:44:48.164] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 22:45:06.041] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c8ccd4c[id=<null>,name=Angel,properties={},legacy=false] (/100.104.28.31:55398) lost connection: Disconnected
+[23Feb2025 22:45:24.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angel[/100.104.28.31:55443] logged in with entity id 28222 at (189.43975929462638, 32.200000047683716, -454.315783731343)
+[23Feb2025 22:45:24.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel joined the game
+[23Feb2025 22:45:25.633] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2401a9b-d035-3821-b275-03f8b4339b02 was loaded
+[23Feb2025 22:46:38.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Skeleton
+[23Feb2025 22:46:38.765] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 22:47:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was burnt to a crisp whilst fighting Zombie
+[23Feb2025 22:47:25.604] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[23Feb2025 22:47:28.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Skeleton
+[23Feb2025 22:47:28.376] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 22:48:24.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was burnt to a crisp whilst fighting Botfly
+[23Feb2025 22:48:24.506] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 22:48:46.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Zombie
+[23Feb2025 22:48:46.034] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[23Feb2025 22:49:10.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was burnt to a crisp whilst fighting Zombie
+[23Feb2025 22:49:10.105] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 22:49:50.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Zombie
+[23Feb2025 22:49:50.295] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[23Feb2025 22:50:06.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 burned to death
+[23Feb2025 22:50:06.157] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 22:50:16.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Zombie
+[23Feb2025 22:50:16.709] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[23Feb2025 22:50:42.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angel lost connection: Disconnected
+[23Feb2025 22:50:42.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel left the game
+[23Feb2025 22:50:42.938] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2401a9b-d035-3821-b275-03f8b4339b02 was unloaded
+[23Feb2025 22:50:47.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Nebula20
+[23Feb2025 22:50:47.239] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[23Feb2025 22:50:54.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was burnt to a crisp whilst fighting Zombie
+[23Feb2025 22:50:54.309] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 22:51:02.108] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angel[/100.104.28.31:55615] logged in with entity id 29795 at (177.5667376586076, 63.0, -374.4485008233348)
+[23Feb2025 22:51:02.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel joined the game
+[23Feb2025 22:51:03.289] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2401a9b-d035-3821-b275-03f8b4339b02 was loaded
+[23Feb2025 22:51:18.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Zombie
+[23Feb2025 22:51:18.318] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 22:51:48.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 has made the advancement [Suit Up]
+[23Feb2025 22:51:48.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 has made the advancement [Isn't It Iron Pick]
+[23Feb2025 22:51:51.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by wallace2020
+[23Feb2025 22:51:51.273] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 22:51:52.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 burned to death
+[23Feb2025 22:51:52.409] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[23Feb2025 22:52:12.186] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nebula20 lost connection: Timed out
+[23Feb2025 22:52:12.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 left the game
+[23Feb2025 22:52:16.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Zombie
+[23Feb2025 22:52:16.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angel moved wrongly!
+[23Feb2025 22:52:16.495] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[23Feb2025 22:52:55.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Funeral Theft]
+[23Feb2025 22:53:08.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Cover Me with Diamonds]
+[23Feb2025 22:53:09.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Magic Writing]
+[23Feb2025 22:53:41.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel withered away whilst fighting Zombie
+[23Feb2025 22:53:41.601] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[23Feb2025 22:53:53.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has reached the goal [Bone Crusher]
+[23Feb2025 22:54:13.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 burned to death
+[23Feb2025 22:54:13.159] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[23Feb2025 22:55:05.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was burnt to a crisp whilst fighting Zombie
+[23Feb2025 22:55:05.858] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[23Feb2025 22:55:11.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Zombie
+[23Feb2025 22:55:11.909] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
