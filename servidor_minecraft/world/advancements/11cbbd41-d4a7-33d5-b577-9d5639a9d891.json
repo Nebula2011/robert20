@@ -264,7 +264,9 @@
       "cooked_porkchop": "2025-02-23 22:01:48 +0000",
       "pumpkin_pie": "2025-02-23 22:07:23 +0000",
       "rotten_flesh": "2025-02-23 21:46:25 +0000",
-      "golden_carrot": "2025-02-23 21:57:33 +0000"
+      "cookie": "2025-02-23 23:15:34 +0000",
+      "golden_carrot": "2025-02-23 21:57:33 +0000",
+      "carrot": "2025-02-23 23:12:01 +0000"
     },
     "done": false
   },
@@ -346,9 +348,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/bone_crusher": {
+  "tombstone:adventure/funeral_theft": {
     "criteria": {
-      "coded_trigger": "2025-02-23 22:53:53 +0000"
+      "coded_trigger": "2025-02-23 22:52:55 +0000"
     },
     "done": true
   },
@@ -364,9 +366,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/funeral_theft": {
+  "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "coded_trigger": "2025-02-23 22:52:55 +0000"
+      "coded_trigger": "2025-02-23 22:53:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_frost_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2025-02-23 23:16:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-02-23 23:16:48 +0000"
     },
     "done": true
   },
