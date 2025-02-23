@@ -1256,3 +1256,88 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Feb2025 21:16:49.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 left the game
 [23Feb2025 21:16:49.497] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 63d71b42-8a40-3655-a0ba-82e700570c8d was unloaded
 [23Feb2025 21:17:31.520] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2667, l='ServerLevel[world]', x=41.50, y=75.00, z=91.50]
+[23Feb2025 21:18:51.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angel[/100.104.28.31:50177] logged in with entity id 2907 at (-6.5, 90.0, -5.5)
+[23Feb2025 21:18:51.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel joined the game
+[23Feb2025 21:18:52.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [Ice and Fire]
+[23Feb2025 21:18:52.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has completed the challenge [The Undead]
+[23Feb2025 21:18:54.308] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2401a9b-d035-3821-b275-03f8b4339b02 was loaded
+[23Feb2025 21:18:55.761] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nebula20[/100.117.211.19:54463] logged in with entity id 2930 at (9.300000011920929, 91.17675927506424, 3.086710566576829)
+[23Feb2025 21:18:55.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 joined the game
+[23Feb2025 21:18:58.395] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 63d71b42-8a40-3655-a0ba-82e700570c8d was loaded
+[23Feb2025 21:19:52.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Nebula20
+[23Feb2025 21:19:52.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [Your First Grave]
+[23Feb2025 21:19:52.382] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[23Feb2025 21:20:02.420] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3229, l='ServerLevel[world]', x=35.50, y=72.00, z=98.50]
+[23Feb2025 21:20:09.573] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3249, l='ServerLevel[world]', x=74.50, y=73.00, z=78.50]
+[23Feb2025 21:20:09.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [Alex's Mobs]
+[23Feb2025 21:20:11.070] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3260, l='ServerLevel[world]', x=34.50, y=72.00, z=96.50]
+[23Feb2025 21:20:15.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Angel
+[23Feb2025 21:20:15.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 has made the advancement [Your First Grave]
+[23Feb2025 21:20:15.178] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 21:20:21.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 has reached the goal [Here They Come]
+[23Feb2025 21:20:26.721] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3319, l='ServerLevel[world]', x=30.50, y=74.00, z=91.50]
+[23Feb2025 21:20:28.372] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3333, l='ServerLevel[world]', x=14.50, y=76.00, z=98.50]
+[23Feb2025 21:20:29.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angel lost connection: Disconnected
+[23Feb2025 21:20:29.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel left the game
+[23Feb2025 21:20:29.834] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2401a9b-d035-3821-b275-03f8b4339b02 was unloaded
+[23Feb2025 21:20:38.571] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3350, l='ServerLevel[world]', x=62.50, y=76.00, z=82.50]
+[23Feb2025 21:20:40.520] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3369, l='ServerLevel[world]', x=30.50, y=74.00, z=89.50]
+[23Feb2025 21:20:42.171] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3375, l='ServerLevel[world]', x=72.50, y=74.00, z=83.50]
+[23Feb2025 21:20:54.023] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3397, l='ServerLevel[world]', x=70.50, y=74.00, z=83.50]
+[23Feb2025 21:21:02.291] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3458, l='ServerLevel[world]', x=-18.50, y=75.00, z=97.50]
+[23Feb2025 21:21:21.170] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3506, l='ServerLevel[world]', x=74.50, y=73.00, z=76.50]
+[23Feb2025 21:21:25.183] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3350a420[id=<null>,name=Angel,properties={},legacy=false] (/100.104.28.31:50305) lost connection: Disconnected
+[23Feb2025 21:21:34.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angel[/100.104.28.31:50309] logged in with entity id 3551 at (-17.999614472246993, 90.0, 17.66022693740681)
+[23Feb2025 21:21:34.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel joined the game
+[23Feb2025 21:21:36.281] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2401a9b-d035-3821-b275-03f8b4339b02 was loaded
+[23Feb2025 21:21:37.424] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3559, l='ServerLevel[world]', x=31.50, y=74.00, z=89.50]
+[23Feb2025 21:21:44.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Acquire Hardware]
+[23Feb2025 21:21:44.670] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3573, l='ServerLevel[world]', x=-10.50, y=74.00, z=113.50]
+[23Feb2025 21:22:02.371] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3624, l='ServerLevel[world]', x=12.50, y=76.00, z=99.50]
+[23Feb2025 21:22:05.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Nebula20
+[23Feb2025 21:22:05.795] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[23Feb2025 21:22:17.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has reached the goal [Here They Come]
+[23Feb2025 21:22:26.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by wallace2020
+[23Feb2025 21:22:27.058] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 21:22:33.519] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3714, l='ServerLevel[world]', x=-11.50, y=74.00, z=115.50]
+[23Feb2025 21:22:41.370] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3734, l='ServerLevel[world]', x=41.50, y=75.00, z=92.50]
+[23Feb2025 21:22:49.022] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3743, l='ServerLevel[world]', x=-20.50, y=75.00, z=96.50]
+[23Feb2025 21:22:49.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nebula20 lost connection: Disconnected
+[23Feb2025 21:22:49.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 left the game
+[23Feb2025 21:22:49.930] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 63d71b42-8a40-3655-a0ba-82e700570c8d was unloaded
+[23Feb2025 21:22:52.970] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3751, l='ServerLevel[world]', x=73.50, y=73.00, z=78.50]
+[23Feb2025 21:23:01.522] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3768, l='ServerLevel[world]', x=-18.50, y=75.00, z=96.50]
+[23Feb2025 21:23:04.021] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3780, l='ServerLevel[world]', x=44.50, y=76.00, z=77.50]
+[23Feb2025 21:23:36.820] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3897, l='ServerLevel[world]', x=-18.50, y=75.00, z=98.50]
+[23Feb2025 21:24:10.422] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4034, l='ServerLevel[world]', x=63.50, y=76.00, z=84.50]
+[23Feb2025 21:24:15.722] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4043, l='ServerLevel[world]', x=42.50, y=76.00, z=75.50]
+[23Feb2025 21:24:17.223] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4053, l='ServerLevel[world]', x=31.50, y=74.00, z=91.50]
+[23Feb2025 21:24:23.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [The Lighthouse]
+[23Feb2025 21:24:24.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [Stone Age]
+[23Feb2025 21:24:40.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nebula20[/100.117.211.19:54517] logged in with entity id 4132 at (-1.3992589346494055, 89.0, 7.4279081686542705)
+[23Feb2025 21:24:40.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 joined the game
+[23Feb2025 21:24:43.200] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 63d71b42-8a40-3655-a0ba-82e700570c8d was loaded
+[23Feb2025 21:25:00.820] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4186, l='ServerLevel[world]', x=32.50, y=74.00, z=89.50]
+[23Feb2025 21:25:10.222] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4255, l='ServerLevel[world]', x=36.50, y=72.00, z=97.50]
+[23Feb2025 21:25:18.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 has made the advancement [Knowledge of Death]
+[23Feb2025 21:25:18.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 has reached the goal [Chain Death]
+[23Feb2025 21:25:18.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Angel
+[23Feb2025 21:25:18.798] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 21:25:21.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [Monster Hunter]
+[23Feb2025 21:25:23.171] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4323, l='ServerLevel[world]', x=-19.50, y=75.00, z=96.50]
+[23Feb2025 21:25:28.123] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4360, l='ServerLevel[world]', x=62.50, y=76.00, z=84.50]
+[23Feb2025 21:25:30.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [Acquire Hardware]
+[23Feb2025 21:25:31.021] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4368, l='ServerLevel[world]', x=12.50, y=76.00, z=100.50]
+[23Feb2025 21:26:09.673] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4513, l='ServerLevel[world]', x=41.50, y=75.00, z=90.50]
+[23Feb2025 21:26:15.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has completed the challenge [Well, that was disgusting]
+[23Feb2025 21:26:24.759] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Intruder'/4627, l='ServerLevel[world]', x=44.68, y=39.00, z=58.14] died: Intruder was slain by wallace2020
+[23Feb2025 21:26:26.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was blown up by Intruder
+[23Feb2025 21:26:26.916] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[23Feb2025 21:26:55.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 has made the advancement [Magic Writing]
+[23Feb2025 21:27:01.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was doomed to fall by Hoglin
+[23Feb2025 21:27:01.967] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 21:27:24.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [The Lighthouse]
+[23Feb2025 21:27:36.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel hit the ground too hard
+[23Feb2025 21:27:37.031] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[23Feb2025 21:27:40.424] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5018, l='ServerLevel[world]', x=43.50, y=75.00, z=92.50]
+[23Feb2025 21:27:41.519] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5020, l='ServerLevel[world]', x=14.50, y=76.00, z=100.50]
