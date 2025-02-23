@@ -775,3 +775,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Feb2025 01:36:09.873] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
 [23Feb2025 01:36:28.910] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
 [23Feb2025 01:36:31.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [Dragonslayer]
+[23Feb2025 01:44:04.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Husk
+[23Feb2025 01:44:05.304] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 01:44:07.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[23Feb2025 01:45:42.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Skeleton
+[23Feb2025 01:45:42.654] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[23Feb2025 01:46:34.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [Diamonds!]
+[23Feb2025 01:46:40.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Husk
+[23Feb2025 01:46:41.680] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 01:46:46.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Husk
+[23Feb2025 01:46:46.895] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 01:46:56.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Husk
+[23Feb2025 01:46:56.182] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 01:46:57.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1656, y=103, z=1145}
+[23Feb2025 01:47:13.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Husk
+[23Feb2025 01:47:13.326] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 01:47:20.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Husk
+[23Feb2025 01:47:20.394] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 01:47:37.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Husk
+[23Feb2025 01:47:37.144] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 01:48:08.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Husk
+[23Feb2025 01:48:09.429] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[23Feb2025 01:48:13.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Husk
+[23Feb2025 01:48:13.381] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[23Feb2025 01:49:55.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was killed by Area Effect Cloud using magic
+[23Feb2025 01:49:56.993] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
