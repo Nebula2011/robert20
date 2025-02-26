@@ -803,3 +803,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Feb2025 01:57:50.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angel lost connection: Timed out
 [26Feb2025 01:57:50.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel left the game
 [26Feb2025 01:57:50.994] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2401a9b-d035-3821-b275-03f8b4339b02 was unloaded
+[26Feb2025 02:08:14.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-87, y=-52, z=-386} BlockPos{x=-86, y=-53, z=-386}
+[26Feb2025 02:08:42.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-86, y=-49, z=-385} BlockPos{x=-86, y=-48, z=-384}
+[26Feb2025 02:08:58.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-82, y=-47, z=-387} BlockPos{x=-86, y=-47, z=-388}
+[26Feb2025 02:08:58.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-82, y=-47, z=-387} BlockPos{x=-86, y=-47, z=-388}
