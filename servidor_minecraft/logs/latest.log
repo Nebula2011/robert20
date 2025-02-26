@@ -764,3 +764,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Feb2025 01:09:02.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [Vampire Slayer]
 [26Feb2025 01:12:01.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [Isn't It Iron Pick]
 [26Feb2025 01:15:38.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [Chest Slayer]
+[26Feb2025 01:20:35.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has reached the goal [Strong or Careful]
+[26Feb2025 01:20:35.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was blown up by Intruder
+[26Feb2025 01:20:35.860] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[26Feb2025 01:21:00.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nebula20 moved wrongly!
+[26Feb2025 01:21:05.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 has made the advancement [Quite the Renovation]
+[26Feb2025 01:21:10.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [Quite the Renovation]
+[26Feb2025 01:21:12.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was blown up by Crawler
+[26Feb2025 01:21:13.018] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[26Feb2025 01:21:17.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was blown up by Crawler
+[26Feb2025 01:21:17.357] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[26Feb2025 01:22:04.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 has made the advancement [Where Is The Stone Pen?]
+[26Feb2025 01:25:28.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Angel
+[26Feb2025 01:25:28.266] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[26Feb2025 01:25:45.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [Take Aim]

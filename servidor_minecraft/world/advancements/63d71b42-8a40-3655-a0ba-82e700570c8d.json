@@ -233,6 +233,7 @@
       "minecraft:hoglin": "2025-02-23 21:55:52 +0000",
       "minecraft:spider": "2025-02-23 21:28:23 +0000",
       "minecraft:phantom": "2025-02-23 21:59:12 +0000",
+      "minecraft:witch": "2025-02-26 01:24:43 +0000",
       "minecraft:wither_skeleton": "2025-02-23 21:56:00 +0000",
       "minecraft:husk": "2025-02-23 21:55:47 +0000",
       "minecraft:enderman": "2025-02-23 21:33:34 +0000",
@@ -328,7 +329,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-02-23 22:35:09 +0000"
+      "in_better_zombie_dungeon": "2025-02-23 22:35:09 +0000",
+      "in_better_monster_room": "2025-02-26 01:21:05 +0000"
     },
     "done": false
   },
@@ -371,6 +373,18 @@
   "enemyexpansion:hunted": {
     "criteria": {
       "hunted_0": "2025-02-26 00:30:28 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-02-26 01:21:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-02-26 01:22:04 +0000"
     },
     "done": true
   },
