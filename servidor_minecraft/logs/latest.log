@@ -782,3 +782,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Feb2025 01:31:47.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angel moved wrongly!
 [26Feb2025 01:32:49.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angel moved wrongly!
 [26Feb2025 01:38:16.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angel> entra discord mmg
+[26Feb2025 01:40:18.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has completed the challenge [+PARRY]
+[26Feb2025 01:43:56.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was blown up by Intruder
+[26Feb2025 01:43:56.731] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[26Feb2025 01:48:43.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 has made the advancement [Alex's Caves]
+[26Feb2025 01:48:46.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [Alex's Caves]
+[26Feb2025 01:49:18.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 has made the advancement [It Belongs in a Museum]
