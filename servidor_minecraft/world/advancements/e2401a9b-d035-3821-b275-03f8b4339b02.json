@@ -411,6 +411,12 @@
     },
     "done": true
   },
+  "enemyexpansion:troll_hunter": {
+    "criteria": {
+      "troll_hunter_0": "2025-02-26 01:31:04 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:small_dungeon": {
     "criteria": {
       "in_better_monster_room": "2025-02-26 01:21:10 +0000"

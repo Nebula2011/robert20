@@ -778,3 +778,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Feb2025 01:25:28.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Angel
 [26Feb2025 01:25:28.266] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
 [26Feb2025 01:25:45.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [Take Aim]
+[26Feb2025 01:31:04.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has reached the goal [Troll Hunter]
+[26Feb2025 01:31:47.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angel moved wrongly!
+[26Feb2025 01:32:49.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angel moved wrongly!
+[26Feb2025 01:38:16.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angel> entra discord mmg
