@@ -261,6 +261,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-26 01:06:37 +0000",
       "beef": "2025-02-26 00:56:09 +0000",
       "apple": "2025-02-23 22:44:47 +0000",
       "potato": "2025-02-26 00:55:51 +0000",
@@ -372,6 +373,12 @@
       "hunted_0": "2025-02-26 00:30:28 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-02-26 01:06:44 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
