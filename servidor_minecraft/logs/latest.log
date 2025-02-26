@@ -762,3 +762,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Feb2025 00:51:23.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 joined the game
 [26Feb2025 00:51:24.712] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 63d71b42-8a40-3655-a0ba-82e700570c8d was loaded
 [26Feb2025 01:09:02.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [Vampire Slayer]
+[26Feb2025 01:12:01.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [Isn't It Iron Pick]
+[26Feb2025 01:15:38.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [Chest Slayer]
