@@ -807,3 +807,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Feb2025 02:08:42.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-86, y=-49, z=-385} BlockPos{x=-86, y=-48, z=-384}
 [26Feb2025 02:08:58.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-82, y=-47, z=-387} BlockPos{x=-86, y=-47, z=-388}
 [26Feb2025 02:08:58.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-82, y=-47, z=-387} BlockPos{x=-86, y=-47, z=-388}
+[26Feb2025 02:14:45.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nebula20 lost connection: Disconnected
+[26Feb2025 02:14:45.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 left the game
+[26Feb2025 02:14:45.435] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 63d71b42-8a40-3655-a0ba-82e700570c8d was unloaded
