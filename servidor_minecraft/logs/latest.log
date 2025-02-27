@@ -777,3 +777,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Feb2025 02:15:21.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [Sneak 100]
 [27Feb2025 02:16:43.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [Where Is The Stone Pen?]
 [27Feb2025 02:16:43.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has made the advancement [Magic Writing]
+[27Feb2025 02:31:20.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel fell from a high place
+[27Feb2025 02:31:20.617] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 02:31:26.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has reached the goal [Discreet Search]
+[27Feb2025 02:31:29.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was blown up by Faller
+[27Feb2025 02:31:29.971] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 02:31:37.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Ferrous Wroughtnaut
+[27Feb2025 02:31:37.455] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 02:31:44.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Ferrous Wroughtnaut
+[27Feb2025 02:31:44.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Ferrous Wroughtnaut
