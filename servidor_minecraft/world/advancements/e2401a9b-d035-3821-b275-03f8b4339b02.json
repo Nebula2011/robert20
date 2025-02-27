@@ -101,8 +101,10 @@
       "minecraft:river": "2025-02-23 22:21:10 +0000",
       "minecraft:stony_shore": "2025-02-23 22:21:43 +0000",
       "minecraft:dripstone_caves": "2025-02-23 23:51:54 +0000",
+      "minecraft:grove": "2025-02-27 03:26:05 +0000",
       "minecraft:cold_ocean": "2025-02-23 22:21:12 +0000",
       "minecraft:forest": "2025-02-23 21:18:52 +0000",
+      "minecraft:frozen_peaks": "2025-02-27 03:26:34 +0000",
       "minecraft:deep_dark": "2025-02-26 01:54:29 +0000",
       "minecraft:meadow": "2025-02-23 23:32:44 +0000",
       "minecraft:plains": "2025-02-23 22:21:00 +0000"
@@ -458,9 +460,21 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-27 03:46:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-02-27 02:15:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-02-27 03:35:54 +0000"
     },
     "done": true
   },
@@ -479,6 +493,12 @@
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2025-02-27 02:31:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-02-27 03:35:41 +0000"
     },
     "done": true
   },
