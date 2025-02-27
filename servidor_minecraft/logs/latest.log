@@ -786,3 +786,55 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Feb2025 02:31:37.455] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
 [27Feb2025 02:31:44.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Ferrous Wroughtnaut
 [27Feb2025 02:31:44.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Ferrous Wroughtnaut
+[27Feb2025 02:31:44.893] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 02:31:44.895] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 02:32:52.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Ferrous Wroughtnaut
+[27Feb2025 02:32:52.447] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 02:33:13.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Ferrous Wroughtnaut
+[27Feb2025 02:33:13.634] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 02:33:17.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Ferrous Wroughtnaut
+[27Feb2025 02:33:17.147] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 02:33:30.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Ferrous Wroughtnaut
+[27Feb2025 02:33:30.868] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 02:33:33.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Ferrous Wroughtnaut
+[27Feb2025 02:33:33.453] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 02:33:48.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Ferrous Wroughtnaut
+[27Feb2025 02:33:48.936] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 02:33:51.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Ferrous Wroughtnaut
+[27Feb2025 02:33:51.538] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 02:33:51.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angel moved wrongly!
+[27Feb2025 02:34:11.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Ferrous Wroughtnaut
+[27Feb2025 02:34:11.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Ferrous Wroughtnaut
+[27Feb2025 02:34:11.656] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 02:34:11.707] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 02:34:51.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Ferrous Wroughtnaut
+[27Feb2025 02:34:51.247] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 02:34:54.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Ferrous Wroughtnaut
+[27Feb2025 02:34:54.939] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 02:35:42.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Ferrous Wroughtnaut
+[27Feb2025 02:35:42.443] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 02:36:02.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Ferrous Wroughtnaut
+[27Feb2025 02:36:02.459] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 02:36:02.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angel moved wrongly!
+[27Feb2025 02:36:18.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Ferrous Wroughtnaut
+[27Feb2025 02:36:18.862] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 02:36:52.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Ferrous Wroughtnaut
+[27Feb2025 02:36:52.177] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 02:37:21.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Ferrous Wroughtnaut
+[27Feb2025 02:37:21.040] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 02:38:26.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Ferrous Wroughtnaut
+[27Feb2025 02:38:26.647] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 02:38:43.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Ferrous Wroughtnaut
+[27Feb2025 02:38:43.137] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 02:40:11.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by The Horrors
+[27Feb2025 02:40:11.448] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 02:40:34.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Ferrous Wroughtnaut
+[27Feb2025 02:40:34.441] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 02:40:45.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by The Horrors
+[27Feb2025 02:40:45.141] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 02:40:53.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Ferrous Wroughtnaut
+[27Feb2025 02:40:53.751] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 02:41:07.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Ferrous Wroughtnaut
+[27Feb2025 02:41:07.560] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 02:41:41.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Ferrous Wroughtnaut
+[27Feb2025 02:41:41.093] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
