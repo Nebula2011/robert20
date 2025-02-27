@@ -868,3 +868,60 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Feb2025 02:50:06.037] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
 [27Feb2025 02:51:26.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Ferrous Wroughtnaut
 [27Feb2025 02:51:26.687] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 02:52:34.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Ferrous Wroughtnaut
+[27Feb2025 02:52:34.235] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 02:53:02.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Ferrous Wroughtnaut
+[27Feb2025 02:53:02.939] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 02:53:46.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Ferrous Wroughtnaut
+[27Feb2025 02:53:46.474] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 02:54:12.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Ferrous Wroughtnaut
+[27Feb2025 02:54:12.440] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 02:54:45.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Ferrous Wroughtnaut
+[27Feb2025 02:54:45.144] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 02:55:09.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Ferrous Wroughtnaut
+[27Feb2025 02:55:09.636] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 02:57:44.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 has completed the challenge [Just a Flesh Wound]
+[27Feb2025 02:59:07.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Angel
+[27Feb2025 02:59:07.788] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 02:59:40.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by The Horrors
+[27Feb2025 02:59:40.688] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 03:02:19.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Huntsman
+[27Feb2025 03:02:19.772] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 03:02:43.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Huntsman
+[27Feb2025 03:02:43.158] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 03:02:55.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Huntsman
+[27Feb2025 03:02:55.657] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 03:03:50.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Angel
+[27Feb2025 03:03:50.555] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 03:03:56.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was squashed by a falling anvil
+[27Feb2025 03:03:56.152] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 03:09:35.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 fell from a high place
+[27Feb2025 03:09:35.039] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 03:09:40.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel fell from a high place
+[27Feb2025 03:09:40.592] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 03:10:19.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 has made the advancement [Amateur Archaeologist]
+[27Feb2025 03:10:28.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 has made the advancement [Fallen Sorcerer]
+[27Feb2025 03:10:28.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 has made the advancement [The Beginning of An Adventure]
+[27Feb2025 03:10:47.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Vindicator
+[27Feb2025 03:10:47.228] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 03:11:08.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Vindicator
+[27Feb2025 03:11:08.049] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 03:12:11.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Vindicator
+[27Feb2025 03:12:11.487] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 03:12:14.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Vex
+[27Feb2025 03:12:14.248] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 03:12:35.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Vex
+[27Feb2025 03:12:35.523] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 03:12:58.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Vex
+[27Feb2025 03:12:58.947] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 03:13:20.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Vex
+[27Feb2025 03:13:20.187] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 03:13:52.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Vindicator
+[27Feb2025 03:13:52.890] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 03:16:07.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel has reached the goal [Fortuitous Militia]
+[27Feb2025 03:16:07.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was shot by Provoker
+[27Feb2025 03:16:07.600] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved
+[27Feb2025 03:16:15.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was slain by Vindicator
+[27Feb2025 03:16:15.141] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[27Feb2025 03:17:38.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angel was slain by Vindicator
+[27Feb2025 03:17:38.244] [Server thread/INFO] [tombstone/]: The player Angel has successfully been saved

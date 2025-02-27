@@ -232,6 +232,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-23 22:10:46 +0000",
       "minecraft:hoglin": "2025-02-23 21:55:52 +0000",
+      "minecraft:vindicator": "2025-02-27 03:16:46 +0000",
       "minecraft:spider": "2025-02-23 21:28:23 +0000",
       "minecraft:phantom": "2025-02-23 21:59:12 +0000",
       "minecraft:witch": "2025-02-26 01:24:43 +0000",
@@ -411,6 +412,30 @@
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2025-02-26 01:54:11 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-02-27 02:57:44 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "magical_eye": "2025-02-27 03:10:28 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2025-02-27 03:10:28 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-27 03:10:19 +0000"
     },
     "done": true
   },
