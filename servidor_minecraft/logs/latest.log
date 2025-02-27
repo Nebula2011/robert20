@@ -745,3 +745,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Feb2025 20:51:16.125] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/1480, l='ServerLevel[world]', x=-306.57, y=75.00, z=-436.71] died, message: 'Scribe was slain by Fire Dragon'
 [27Feb2025 20:51:26.421] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/1483, l='ServerLevel[world]', x=-351.36, y=97.00, z=-540.84] died, message: 'Scribe was burnt to a crisp whilst fighting Fire Dragon'
 [27Feb2025 20:51:35.692] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/1409, l='ServerLevel[world]', x=-336.78, y=91.00, z=-528.70] died, message: 'Beekeeper hit the ground too hard whilst trying to escape Fire Dragon'
+[27Feb2025 20:51:56.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[27Feb2025 20:52:23.370] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/1394, l='ServerLevel[world]', x=-367.60, y=65.25, z=-517.29] died, message: 'Scribe was incinerated by Fire Dragon'
+[27Feb2025 20:52:34.777] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/1386, l='ServerLevel[world]', x=-379.17, y=62.94, z=-462.95] died, message: 'Beekeeper was turned into KFC by Fire Dragon'
+[27Feb2025 20:53:24.622] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1403, l='ServerLevel[world]', x=-343.50, y=80.00, z=-528.34] died, message: 'Villager was slain by Fire Dragon'
+[27Feb2025 21:01:01.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[27Feb2025 21:01:26.244] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[27Feb2025 21:01:26.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9855ms or 197 ticks behind
+[27Feb2025 21:01:43.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2224ms or 44 ticks behind
