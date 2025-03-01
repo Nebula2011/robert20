@@ -817,3 +817,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Mar2025 15:58:36.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 joined the game
 [01Mar2025 15:58:38.484] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 63d71b42-8a40-3655-a0ba-82e700570c8d was loaded
 [01Mar2025 15:58:38.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2295ms or 45 ticks behind
+[01Mar2025 16:02:37.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 has made the advancement [Not Today, Thank You]
+[01Mar2025 16:02:46.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 was killed by Lobber Zombie using magic
+[01Mar2025 16:02:47.852] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
+[01Mar2025 16:05:06.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
+[01Mar2025 16:05:13.556] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[01Mar2025 16:05:13.557] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[01Mar2025 16:05:13.557] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[01Mar2025 16:05:13.558] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[01Mar2025 16:05:13.572] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[01Mar2025 16:05:13.573] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[01Mar2025 16:05:13.573] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[01Mar2025 16:05:13.574] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[01Mar2025 16:05:13.590] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[01Mar2025 16:05:13.590] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[01Mar2025 16:05:13.591] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[01Mar2025 16:05:13.591] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[01Mar2025 16:05:13.609] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[01Mar2025 16:05:13.610] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[01Mar2025 16:05:13.610] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[01Mar2025 16:05:13.611] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[01Mar2025 16:05:13.712] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[01Mar2025 16:05:13.712] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[01Mar2025 16:05:13.713] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[01Mar2025 16:05:13.713] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[01Mar2025 16:05:13.728] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[01Mar2025 16:05:13.730] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[01Mar2025 16:05:13.730] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[01Mar2025 16:05:13.743] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[01Mar2025 16:05:13.748] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[01Mar2025 16:05:13.748] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[01Mar2025 16:05:13.749] [Worker-Main-60/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[01Mar2025 16:05:19.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 went up in flames
+[01Mar2025 16:05:19.678] [Server thread/INFO] [tombstone/]: The player Nebula20 has successfully been saved
