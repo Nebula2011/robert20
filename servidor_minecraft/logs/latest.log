@@ -735,3 +735,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Mar2025 15:13:45.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5961ms or 119 ticks behind
 [01Mar2025 15:15:31.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 has made the advancement [This Must be a Sign!]
 [01Mar2025 15:15:50.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
+[01Mar2025 15:22:05.943] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[01Mar2025 15:22:05.945] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[01Mar2025 15:22:05.946] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[01Mar2025 15:22:05.947] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
