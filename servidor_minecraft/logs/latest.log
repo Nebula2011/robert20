@@ -810,3 +810,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Mar2025 15:46:52.262] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3222ms or 64 ticks behind
 [01Mar2025 15:47:27.589] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=79, y=-24, z=-2053} but found not block entity block Block{minecraft:lava}[level=2] at location
 [01Mar2025 15:47:27.589] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lava}[level=2] but failed at location BlockPos{x=79, y=-24, z=-2053}
+[01Mar2025 15:54:51.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nebula20 lost connection: Disconnected
+[01Mar2025 15:54:51.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 left the game
+[01Mar2025 15:54:51.906] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 63d71b42-8a40-3655-a0ba-82e700570c8d was unloaded
+[01Mar2025 15:58:36.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nebula20[/100.117.211.19:58167] logged in with entity id 9006 at (60.5, 67.0, -1607.5)
+[01Mar2025 15:58:36.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nebula20 joined the game
+[01Mar2025 15:58:38.484] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 63d71b42-8a40-3655-a0ba-82e700570c8d was loaded
+[01Mar2025 15:58:38.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2295ms or 45 ticks behind
